@@ -1,4 +1,4 @@
-# Centroiding_1
+# Centroiding
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
